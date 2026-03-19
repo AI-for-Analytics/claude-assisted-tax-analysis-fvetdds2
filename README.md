@@ -15,9 +15,13 @@ First, just follow along with the slides.  When the slides are finished you can 
    When using following formula to recreate a new sheet with excel:
    
     Total Returns: =INDEX(Raw_Data!B$10:VL$10, MATCH(UPPER(A2), Raw_Data!B$3:VL$3, 0))
+   
     Elderly Returns: =INDEX(Raw_Data!C$24:VM$24, MATCH(UPPER($A2), Raw_Data!C$3:VM$3, 0))
+   
     Elderly% of Total: =ROUND(C2/B2*100, 2)
+   
     % of Middle Class: =ROUND((INDEX(Raw_Data!B$10:VL$10, MATCH(UPPER($A2), Raw_Data!B$3:VL$3, 0)+5) + INDEX(Raw_Data!B$10:VL$10, MATCH(UPPER($A2), Raw_Data!B$3:VL$3, 0)+6)) / B2 * 100, 2)
+   
     % of High Income: =ROUND(INDEX(Raw_Data!B$10:VL$10, MATCH(UPPER($A2), Raw_Data!B$3:VL$3, 0)+10)/B2*100, 2)
    
    When column A is named State, the result is the same.
