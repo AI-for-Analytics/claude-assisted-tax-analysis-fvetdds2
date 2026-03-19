@@ -13,3 +13,4 @@ First, just follow along with the slides.  When the slides are finished you can 
 3. Now, go through and create a new sheet with the same columns except do them without the assistance of Claude.   Were the answers the same?  If not, can you see why errors occurred.
 
 4.  Once Claude's sheet is correct, prompt Claude to use that data to create a dashboard.
+<img width="1057" height="670" alt="image" src="https://github.com/user-attachments/assets/88ba508d-1683-4cf1-b699-4d1f5e2a3024" />
