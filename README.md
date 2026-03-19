@@ -16,6 +16,6 @@ First, just follow along with the slides.  When the slides are finished you can 
 ##Taz Filling Demographics: Tax Year 2016"
 <img width="1057" height="670" alt="image" src="https://github.com/user-attachments/assets/88ba508d-1683-4cf1-b699-4d1f5e2a3024" />
 **Key Takeaways**
-1. 4 states exceed 27% elderly filling share
+1. Four states exceed 27% elderly filling share
 2. States in the North east such as connecticut, New York, Massachusetts and New Jersey have highest millionaire filer rate.
 3. States in the South  for instance, Missisippi, Florida, New mexico, Louisiana and Geogia appear in the bottom 5 for middle-class filer rate suggesting polarized income distribution, in which more people are clustered at teh low end or the high end with fewer in the middle class population.
